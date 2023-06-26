@@ -50,6 +50,7 @@ public:
 		, Printer(printer, power2)
 		//, Copier(power3) 불가능
 		, PoweredDevice(power3)
+		// 반드시 생성자 직접 호출해줘야함
 	{
 
 	}
